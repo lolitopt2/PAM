@@ -1,5 +1,5 @@
 
-# App Gestao Compras
+# App ZZZTracker
 
 Aplicaçao desenvolvida de acordo com metodologia Scrum , com o intuito de servir como uma aplicaçao de controlo de horas de sono
 
